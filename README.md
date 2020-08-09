@@ -1,6 +1,6 @@
 <h2 align="center"> Hi there 👋 <br/> </h2> 
 
-<img align='right' src="http://wx3.sinaimg.cn/large/006ER2Lzgy1gf7apgtde1g308c08c0wt.gif" width="230">
+<img align='right' src="http://wx3.sinaimg.cn/large/006ER2Lzgy1gf7apgtde1g308c08c0wt.gif" width="120">
 
 - 🔭 I'm a graduate student
 - 🌱 I’m currently learning  C++
