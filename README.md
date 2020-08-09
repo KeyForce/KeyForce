@@ -1,6 +1,6 @@
-<h1 align="center"> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="45"> Hi there 👋 <br/> </h1> 
+<h1 align="center"> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> Hi there 👋 <br/> </h1> 
 
-<img align='right' src="https://cdn.jsdelivr.net/gh/KeyForce/PictureBed/NoteBook/20200809203218.jpg" width="90">
+<img align='right' src="https://cdn.jsdelivr.net/gh/KeyForce/PictureBed/NoteBook/20200809203218.jpg" width="120">
 
 **Talking about Personal Stuffs:**
 
