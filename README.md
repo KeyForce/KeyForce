@@ -17,10 +17,9 @@ Here are some ideas to get you started:
 
 - 🔭 I'm a graduate student
 - 🌱 I’m currently learning  C++
-- ⚡ Fun fact: I love photography and hiking
+- 😄 Fun fact: I love photography and hiking
 
-[<div align=center><img src ="https://github-readme-stats.vercel.app/api?username=KeyForce&count_private=true&hide_border=true&show_icons=true"/></div>](https://github.com/KeyForce)
-
-
+[<div align=left><img src ="https://github-readme-stats.vercel.app/api?username=KeyForce&count_private=true&hide_border=true&show_icons=true"/></div>](https://github.com/KeyForce)
 
 ### Show some ❤️ by starring some of the repositories!
+
